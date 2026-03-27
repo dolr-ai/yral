@@ -1,4 +1,0 @@
-- Offchain Agent -> offchain.yral.com
-- Metadata Server -> metadata.yral.com
-- Auth Server -> auth.yral.com
-- Marketing Analytics Server -> analytics.yral.com
